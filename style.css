@@ -1,0 +1,55 @@
+*{
+  color:#65647C;
+  font-family: 'Mukta', sans-serif;
+}
+.nav-link{
+    color: white;
+  }
+.projects .fa-solid{
+  color: #146C94;
+}
+
+tr{
+  line-height: 60px;
+}
+
+thead{
+  background-color:#19a7ce;
+}
+th{
+  color: black !important;
+}
+tbody{
+  background-color: #AFD3E2;
+}
+
+input{
+  background-color: #fff !important;
+}
+.contact-btn{
+  background-color:#146C94;
+   color:#fff;
+}
+.contact-btn:hover{
+  background-color:#fff;
+  color:#146C94;
+}
+
+footer{
+  background-color: #146C94;
+} 
+ 
+.footer-link{
+  color:#fff;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #ffffff66;
+}
+.nav-link{
+  color:#fff;
+  text-decoration: none;
+}
+.nav-link:hover{
+  color: #ffffff66;
+}
